@@ -44,6 +44,16 @@ Built with **Python**.
 5. To deploy, open the **Deploy project** tab, select the projects, and click **Deploy Selected**.
 6. To create a new Firebase project configuration, open **Initiate project**, choose a folder, name, and project type, then run `firebase init`. The app can optionally run `firebase deploy`.
 
+## Download
+
+The website advertises **Firebase Manager v1.0.1**, for **Windows 64-bit**.
+
+Download the latest installer here:
+
+[**Download Firebase Manager for Windows (.exe)**](https://github.com/Ahmed76239/download-firebase-manager-webpage/releases/latest/download/Firebase.Manager-Setup-1.0.1.exe)
+
+This link uses GitHub's `releases/latest/download` route, so it points to the named installer asset in the latest release.
+
 ## Important Notes
 
 - Firebase Manager is a **fan-made, unofficial tool**. It is not affiliated with, endorsed by, or sponsored by Firebase or Google LLC.
@@ -64,7 +74,3 @@ Built with **Python**.
 **Ahmed Abutalib, INC.**
 
 Website copyright text identifies the project as **Firebase Manager v1.0.1**, made with Python, © 2026.
-
----
-
-*This README was written based on the information in the project's `index.html` landing page.*
