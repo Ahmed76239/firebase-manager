@@ -18,7 +18,7 @@ Built with **Python**.
 - **Windows 64-bit**
 - **Node.js** (the LTS version is recommended)
 - **Firebase CLI** (`firebase-tools`)
-- A Firebase account and access to the Firebase projects you want to use
+- A Firebase account and access to the Firebase projects you want to use [Firebase Console](https://console.firebase.google.com/).
 
 ## Installation
 
@@ -33,7 +33,6 @@ Built with **Python**.
 4. Run the installer and launch Firebase Manager.
 5. If Windows SmartScreen displays an **Unknown publisher** warning, the installer may be unsigned. Only proceed if you trust the installer.
 
-> **Note:** The HTML page currently links to a GitHub release URL containing `your-repo`. Replace that placeholder with the actual GitHub repository path if it is not intentional.
 
 ## Getting Started
 
