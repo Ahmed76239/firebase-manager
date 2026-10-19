@@ -49,7 +49,7 @@ The website advertises **Firebase Manager v1.0.1**, for **Windows 64-bit**.
 
 Download the latest installer here:
 
-[**Download Firebase Manager for Windows (.exe)**](https://github.com/Ahmed76239/download-firebase-manager-webpage/releases/latest/download/Firebase.Manager-Setup-1.0.1.exe)
+[**Download Firebase Manager for Windows (.exe)**](https://github.com/Ahmed76239/firebase-manager/releases/download/v1.0.1/Firebase-Manager-Setup-1.0.1v.exe)
 
 This link uses GitHub's `releases/latest/download` route, so it points to the named installer asset in the latest release.
 
